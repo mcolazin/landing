@@ -1,0 +1,10 @@
+
+.btn-primary{
+  display: inline-block;
+  background-color: red ;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  opacity: 0.8;
+  font-weight: bolder;
+}

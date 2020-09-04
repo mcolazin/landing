@@ -1,0 +1,20 @@
+
+.banner {
+  background-image: url("https://w0.pngwave.com/png/532/636/index-finger-pointing-hand-png-clip-art.png");
+  background-size: cover;
+  background-position: center ;
+  padding: 200px 0;
+}
+
+
+.banner h1{
+  color: red;
+
+}
+
+.banner p{
+  color: red;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
